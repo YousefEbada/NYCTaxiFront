@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { ArrowLeft, FileText } from 'lucide-react';
-
+// sahhjsajas
 export default function TermsPage() {
   return (
     <div className="min-h-screen text-slate-100 p-8 md:p-16 flex flex-col items-center" style={{ background: "#090514", fontFamily: "'Geist', 'Inter', sans-serif" }}>
